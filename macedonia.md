@@ -10,10 +10,10 @@
 
 # Ohrid
 
-| Szállás                                                                  | Leírás                                                               | ~Ár   |
-| ------------------------------------------------------------------------ | -------------------------------------------------------------------- | ----- |
-| [Apartman Bojan](https://www.booking.com/Share-63i8fg)                   | 2 franciaágy, 2 kanapéágy, basic de cheap szállás                    | 8500  |
-| [Apartments Lakeside City Center](https://www.booking.com/Share-3plOkeM) | 1 franciaágy, 1 kanapéágy, 1 egyszemélyes ágy, igényes szállás       | 9000  |
-| [VELVET Apartment](https://www.booking.com/Share-6RDZ1w)                 | 2 kanapéágy, 3 egyszemélyes ágy, igényes szállás, hangulatos kilátás | 9000  |
-| [Villa Centar Ohrid](https://www.booking.com/Share-1N1g09)               | 3 egyszemélyes ágy, igényes szállás                                  | 10000 |
-| [Apartments Lido](https://www.booking.com/Share-sGbJ5c)                  | 1 egyszemélyes ágy, 1 futonágy, 1 franciaágy, igényes szállás        | 10000 |
+| Szállás                                                                  | Leírás                                                               | ~Ár    |
+| ------------------------------------------------------------------------ | -------------------------------------------------------------------- | ------ |
+| [Apartman Bojan](https://www.booking.com/Share-63i8fg)                   | 2 franciaágy, 2 kanapéágy, basic de cheap szállás                    | 8 500  |
+| [Apartments Lakeside City Center](https://www.booking.com/Share-3plOkeM) | 1 franciaágy, 1 kanapéágy, 1 egyszemélyes ágy, igényes szállás       | 9 000  |
+| [VELVET Apartment](https://www.booking.com/Share-6RDZ1w)                 | 2 kanapéágy, 3 egyszemélyes ágy, igényes szállás, hangulatos kilátás | 9 000  |
+| [Villa Centar Ohrid](https://www.booking.com/Share-1N1g09)               | 3 egyszemélyes ágy, igényes szállás                                  | 10 000 |
+| [Apartments Lido](https://www.booking.com/Share-sGbJ5c)                  | 1 egyszemélyes ágy, 1 futonágy, 1 franciaágy, igényes szállás        | 10 000 |
